@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\admin\source\repos\fortra\CVE-2024-30051\Introduccion_C1_C2\main.cpp(193,10): warning C4302: 'type cast': truncation from 'char *' to 'unsigned char'
+C:\Users\admin\source\repos\fortra\CVE-2024-30051\Introduccion_C1_C2\main.cpp(230,26): warning C4309: '=': truncation of constant value
+C:\Users\admin\source\repos\fortra\CVE-2024-30051\Introduccion_C1_C2\main.cpp(271,26): warning C4309: '=': truncation of constant value
+C:\Users\admin\source\repos\fortra\CVE-2024-30051\Introduccion_C1_C2\main.cpp(312,26): warning C4309: '=': truncation of constant value
+C:\Users\admin\source\repos\fortra\CVE-2024-30051\Introduccion_C1_C2\main.cpp(353,26): warning C4309: '=': truncation of constant value
+C:\Users\admin\source\repos\fortra\CVE-2024-30051\Introduccion_C1_C2\main.cpp(452,28): warning C4244: '=': conversion from 'DWORD64' to 'int', possible loss of data
+C:\Users\admin\source\repos\fortra\CVE-2024-30051\Introduccion_C1_C2\main.cpp(454,37): warning C4244: '=': conversion from 'DWORD64' to '_DWORD', possible loss of data
+C:\Users\admin\source\repos\fortra\CVE-2024-30051\Introduccion_C1_C2\main.cpp(888,58): warning C4244: '=': conversion from 'DWORD64' to '_DWORD', possible loss of data
+C:\Users\admin\source\repos\fortra\CVE-2024-30051\Introduccion_C1_C2\main.cpp(664,14): warning C4101: 'window': unreferenced local variable
+  Introduccion_C1_C2.vcxproj -> C:\Users\admin\source\repos\fortra\CVE-2024-30051\x64\Debug\C26f.exe

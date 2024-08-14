@@ -1,0 +1,3 @@
+﻿  main.cpp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Introduccion_C1_C2.vcxproj -> C:\Users\admin\source\repos\fortra\CVE-2024-30051\x64\Release\C26f.exe
